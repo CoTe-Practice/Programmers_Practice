@@ -30,3 +30,5 @@ func solution(_ array:[Int], _ commands:[[Int]]) -> [Int] {
 ```
 
 `map`을 이용해 더 간단히 해결할 수 있다.
+
+##### 21.07.20 완료
