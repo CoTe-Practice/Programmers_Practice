@@ -1,4 +1,4 @@
-# 음향 더하기
+# 음양 더하기
 
 ```javaScript
 function solution(absolutes, signs) {
