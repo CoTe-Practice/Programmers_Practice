@@ -15,3 +15,5 @@ String형 배열 seoul의 element중 "Kim"의 위치 x를 찾아, "김서방은 
 |      seoul      |       return        |
 | :-------------: | :-----------------: |
 | ["Jane", "Kim"] | "김서방은 1에 있다" |
+
+[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)

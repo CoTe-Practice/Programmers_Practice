@@ -37,3 +37,5 @@
 #### 입출력 예 #3
 
 626331은 500번을 시도해도 1이 되지 못하므로 -1을 리턴해야합니다.
+
+[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)

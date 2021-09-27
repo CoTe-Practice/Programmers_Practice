@@ -24,3 +24,5 @@
 #### 입출력 예 #2
 
 5의 약수는 1, 5입니다. 이를 모두 더하면 6입니다.
+
+[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
